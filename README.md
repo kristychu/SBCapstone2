@@ -2,7 +2,7 @@
 ## Description
 The Korean Skincare Routine App helps users to track which products are used for each step of the Korean Skincare Routine. While an explanation of the 10 steps of the Korean Skincare Routine can be found on many websites, this app follows the 10-Step Korean Skincare Routine as originally explained by [Soko Glam] ("https://sokoglam.com/pages/the-korean-skin-care-routine").
 
-##Features:
+## Features:
 These features were included to allow users to see the functionality of how a tracking app for a skincare routine could work:
 
 - See an explanation of the 10-Step Korean Skincare Routine
@@ -19,7 +19,7 @@ These features were included to allow users to see the functionality of how a tr
 	- Add public or private notes to each product
 	- Share skincare routine products and notes with others (if opted)
 
-##Tests
+## Tests
 Backend test files are saved next to their respective file in /skincareapp-backend and all tests can be ran with `jest -i`. Frontend test files are saved in src/__tests __ and all tests can be ran with `npm test`.
 
 ## User Flow
