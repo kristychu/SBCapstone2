@@ -1,6 +1,6 @@
 # Korean Skincare Routine App
 ## Description
-The Korean Skincare Routine App helps users to track which products are used for each step of the Korean Skincare Routine. While an explanation of the 10 steps of the Korean Skincare Routine can be found on many websites, this app follows the 10-Step Korean Skincare Routine as originally explained by [Soko Glam]("https://sokoglam.com/pages/the-korean-skin-care-routine").
+The Korean Skincare Routine App helps users to track which products are used for each step of the Korean Skincare Routine. While an explanation of the 10 steps of the Korean Skincare Routine can be found on many websites, this app follows the 10-Step Korean Skincare Routine as originally explained by [Soko Glam](https://sokoglam.com/pages/the-korean-skin-care-routine).
 
 ## Features:
 These features were included to allow users to see the functionality of how a tracking app for a skincare routine could work:
