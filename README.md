@@ -1,4 +1,7 @@
 # Korean Skincare Routine App
+
+Deployed at https://kc-capstone2.herokuapp.com
+
 ## Description
 The Korean Skincare Routine App helps users to track which products are used for each step of the Korean Skincare Routine. While an explanation of the 10 steps of the Korean Skincare Routine can be found on many websites, this app follows the 10-Step Korean Skincare Routine as originally explained by [Soko Glam](https://sokoglam.com/pages/the-korean-skin-care-routine).
 
@@ -33,7 +36,7 @@ Skincare API built by Laura Robertson:
 https://github.com/LauraRobertson/skincareAPI
 
 ## Tech Stack
-Korean Skincare App uses:
+Korean Skincare Routine App uses:
 - Javascript
 - HTML
 - reactstrap
